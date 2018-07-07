@@ -1,0 +1,17 @@
+Typescript Code (Business Logic) ===Output Data===>  Template (HTML)
+
+    String Interpolation ({{ data }})
+    Property Binding ( [Property]="data")
+
+               <===== React to (User) Events =======
+
+    Event Binding ( (event) ="expression")
+
+    BOTH DIRECTIONS:
+    
+    Two-Way-Binding ([{ngModel}]="data")
+
+    Directives are instructions in the DOM
+
+Structural directives: these change the structure of the DOM by reoving or adding, while
+Attribute directives: these change the element they were placed on.
